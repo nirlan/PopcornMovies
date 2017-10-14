@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Popcorn Movies</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_details_title">Movie Details</string>
+    <string name="movie_title">Madagascar</string>
+    <string name="text_year">2016</string>
+    <string name="text_duration">120min</string>
+    <string name="text_rate" translatable="false">8.1/10</string>
+    <string name="text_favorite_button">Mark as favorite</string>
+    <string name="text_synopsis">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu tortor eros. Morbi volutpat eros nec metus ullamcorper, eu hendrerit nisi bibendum. Donec vel sollicitudin sem, at auctor sapien. Nunc euismod efficitur lectus, et finibus lorem imperdiet at.</string>
+    <string name="text_trailer">Trailers:</string>
+    <string name="text_trailer_description">Trailer 1</string>
+</resources>
